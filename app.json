@@ -3,7 +3,6 @@
     "name": "pintu-mobile",
     "slug": "pintu-mobile",
     "privacy": "public",
-    "policy": "sdkVersion",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -31,6 +30,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
     }
   }
 }
