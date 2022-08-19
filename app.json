@@ -2,7 +2,8 @@
   "expo": {
     "name": "pintu-mobile",
     "slug": "pintu-mobile",
-    "owner": "theresiarosa30",
+    "privacy": "public",
+    "runtimeVersion": "2.718",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,7 +14,8 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/95c6a773-5318-423b-8d67-1f532e58fce8"
     },
     "assetBundlePatterns": [
       "**/*"
