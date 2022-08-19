@@ -3,7 +3,7 @@
     "name": "pintu-mobile",
     "slug": "pintu-mobile",
     "privacy": "public",
-    "runtimeVersion": "2.718",
+    "policy": "sdkVersion",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
